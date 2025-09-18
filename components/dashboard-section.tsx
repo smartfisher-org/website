@@ -34,7 +34,7 @@ export function DashboardSection() {
               </ul>
               <div className="mt-7">
                 <Button className="bg-cyan-500 text-slate-950 hover:bg-cyan-400" asChild>
-                  <a href="/contact" aria-label="Explore our dashboard">Explore our dashboard</a>
+                  <a href="https://app.smartfisher.pt" target="_blank" rel="noopener noreferrer" aria-label="Explore our dashboard">Explore our dashboard</a>
                 </Button>
               </div>
             </div>
