@@ -39,7 +39,7 @@ export function Hero() {
               </a>
             </Button>
             <Button className="self-start bg-cyan-500 text-slate-950 hover:bg-cyan-400 px-6 py-3" asChild>
-              <a href="#livestream" aria-label="Jump to demo dashboard" className="whitespace-nowrap">
+              <a href="https://app.smartfisher.pt" target="_blank" rel="noopener noreferrer" aria-label="View SmartFISHER dashboard" className="whitespace-nowrap">
                 View Dashboard
               </a>
             </Button>
