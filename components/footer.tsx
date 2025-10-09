@@ -19,7 +19,7 @@ export function Footer() {
               AI-powered detection and biomass analytics for underwater monitoring.
             </p>
             <div className="mt-4 flex items-center gap-3 text-slate-400">
-              <a href="mailto:hello@smartfisher.ai" aria-label="Email SmartFISHER" className="hover:text-white">
+              <a href="mailto:jgillard@smartfisher.pt" aria-label="Email SmartFISHER" className="hover:text-white">
                 <Mail className="size-5" />
               </a>
               <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn" className="hover:text-white">

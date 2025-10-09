@@ -15,7 +15,7 @@ export function FinalCta() {
             </p>
             <div className="mt-8">
               <Button className="bg-slate-900/90 text-white hover:bg-slate-900" asChild>
-                <a href="mailto:hello@smartfisher.ai?subject=Early%20access%20request">Get early access</a>
+                <a href="mailto:jgillard@smartfisher.pt?subject=Early%20access%20request">Get early access</a>
               </Button>
             </div>
           </div>

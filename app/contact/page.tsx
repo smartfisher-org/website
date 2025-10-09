@@ -21,7 +21,7 @@ export default function ContactPage() {
     const body = encodeURIComponent(
       `Name: ${first} ${last}\nEmail: ${email}\nOrganisation: ${org}\n\n${message}`
     )
-    return `mailto:hello@smartfisher.ai?subject=${subj}&body=${body}`
+    return `mailto:jgillard@smartfisher.pt?subject=${subj}&body=${body}`
   }
 
   return (
@@ -57,8 +57,8 @@ export default function ContactPage() {
                 <div className="rounded-lg border border-slate-800 bg-slate-900 p-2"><Mail className="size-5 text-cyan-300" /></div>
                 <div>
                   <div className="text-sm font-medium">Email</div>
-                  <a href="mailto:hello@smartfisher.ai" className="text-sm text-white/90 hover:underline">
-                    hello@smartfisher.ai
+                  <a href="mailto:jgillard@smartfisher.pt" className="text-sm text-white/90 hover:underline">
+                    jgillard@smartfisher.pt
                   </a>
                 </div>
               </div>
